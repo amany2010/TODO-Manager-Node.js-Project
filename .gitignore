@@ -1,0 +1,3 @@
+#this file to define regualr expressions to files that are noe be uploaded to github repo
+*\.env
+node_modules
